@@ -3,19 +3,19 @@
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
+<!-- <img src="http://hits.dwyl.com/limfiq/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://twitter.com/ufiqzone" ><img src="https://img.shields.io/twitter/follow/ufiqzone.svg?style=social" /> </a>
 <br>
 
 <i>A curated list of awesome Github Profile READMEs</i>
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/limfiq/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/limfiq/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/limfiq/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/limfiq/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/limfiq/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/limfiq/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/limfiq/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/limfiq/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/limfiq/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/limfiq/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/limfiq/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/limfiq/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/limfiq/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/limfiq/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/limfiq/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/limfiq/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/limfiq/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/limfiq/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
@@ -51,7 +51,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Abhishek Naidu](https://github.com/limfiq/limfiq)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
@@ -275,7 +275,7 @@
 - [Christian Petersen](https://github.com/fnky/fnky)
 
 ## Tools
-- [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
+- [Todoist Stats in Readme](https://github.com/limfiq/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
 - [Vistor Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
