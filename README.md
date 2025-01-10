@@ -1,11 +1,10 @@
-# 🌟 <H2>Limfiq's Dashboard</H2>
+# <H2>Limfiq's Dashboard</H2>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#setup">Setup</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
+  <a href="https://limfiq.github.io/">Blog</a> •
+  <a href="https://sinta.kemdikbud.go.id/authors/profile/6000762">Sinta</a> •
+  <a href="https://orcid.org/0000-0003-3473-7847">Orchid</a> •
+  <a href="https://stikombanyuwangi.ac.id/">Kantor</a> •
 </p>
 
 ## 🎯 Overview
