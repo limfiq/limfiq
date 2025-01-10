@@ -1,6 +1,4 @@
-# 🌟 Project Name
-
-![Project Screenshot](link_to_your_screenshot)
+# 🌟 <H2>Limfiq's Dashboard</H2>
 
 <p align="center">
   <a href="#features">Features</a> •
