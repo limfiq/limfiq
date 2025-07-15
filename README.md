@@ -1,27 +1,62 @@
-# 🎯 Limfiq's Dashboard
-
 <p align="center">
-  <a href="https://limfiq.github.io/">Blog</a> •
-  <a href="https://sinta.kemdikbud.go.id/authors/profile/6000762">Sinta</a> •
-  <a href="https://orcid.org/0000-0003-3473-7847">Orcid</a> •
-  <a href="https://stikombanyuwangi.ac.id/">Kantor</a>
+  <img src="https://img.shields.io/badge/WELCOME-%E2%9C%A8%20TO%20MY%20SPACE-00cc66?style=for-the-badge" alt="Welcome Badge" />
 </p>
 
-## 🎯 Our Project
+<h1 align="center">Hi, saya <span style="color:#00cc66;">Limfiq</span> 👋</h1>
 
-## 🎯 Overview
+<p align="center">
+  <b>Programmer | Dosen | Peneliti Teknologi</b><br>
+  <sub>Menghubungkan edukasi, teknologi, dan inovasi</sub>
+</p>
 
-Saya adalah seorang pengajar web dan mobile development dengan spesialisasi dalam bahasa pemrograman PHP, JavaScript, dan Dart. Melalui proyek ini, saya berbagi pengetahuan dan pengalaman saya dalam mengembangkan aplikasi web dan mobile yang efektif dan efisien.
+---
 
-## 🚀 Features
+## 🌱 Tentang Saya
 
-- ✨ **PHP** - Bahasa pemrograman pertama saya.
-- 🔥 **JavaScript** - Bahasa pemrograman yang sedang saya pelajari.
-- 💡 **Dart** - Bahasa pemrograman yang sedang saya pelajari.
+- 👨‍🏫 Dosen & mentor bidang pemrograman, backend, dan DevOps
+- 💼 Aktif mengembangkan aplikasi edukasi & sistem manajemen
+- 💚 Fokus di teknologi open-source: Express.js, Next.js, Supabase, Laravel, dan Docker
+- 🌍 Berdomisili di Banyuwangi, Indonesia
 
-## 📸 Repositories
+---
 
-1. **HTML, CSS**: [Dasar Web dengan HTML, CSS, dan JavaScript](https://github.com/limfiq/dasar-web-dengan-html-css-dan-javascript)
-2. **Dasar Dart**: [Dasar Dart](https://github.com/limfiq/dasardart)
-3. **Fullstack JavaScript**: [Fullstack JavaScript](https://github.com/limfiq/fullstack)
+## 🧰 Teknologi yang Saya Gunakan
 
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,tailwind,laravel,mysql,docker,github,vscode" />
+
+---
+
+## 📌 Proyek Unggulan
+
+| Proyek | Deskripsi | Teknologi |
+|--------|-----------|-----------|
+| **Presensi QR Siswa & Guru** | Sistem kehadiran berbasis QR Code & Laravel | Laravel, MySQL, AppSheet |
+| **Sistem Informasi Akademik** | CRUD Mahasiswa & RPS dengan Auth lengkap | Express.js, Sequelize, MySQL |
+| **DevOps Materi Pembelajaran** | Materi dari dasar hingga CI/CD untuk mahasiswa | Docker, GitHub Actions, Vercel |
+| **Landing Page Dosen & Portfolio** | Personal branding dosen berbasis Next.js | Next.js, Supabase |
+
+---
+
+## 📈 Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=limfiq&show_icons=true&theme=vue&hide_title=true&hide_border=true&icon_color=00cc66&title_color=00cc66" />
+</p>
+
+---
+
+## 🤝 Mari Terhubung
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/limfiq"><img src="https://img.shields.io/badge/LinkedIn-limfiq-00cc66?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:limfiq@email.com"><img src="https://img.shields.io/badge/Email-Kontak%20Saya-00cc66?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://limfiq.dev"><img src="https://img.shields.io/badge/Website-limfiq.dev-00cc66?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9C%A8%20Love%20and%20Green-00cc66?style=flat-square" />
+  <br>
+  <sub>© 2025 Limfiq | Terima kasih telah berkunjung 🌿</sub>
+</p>
