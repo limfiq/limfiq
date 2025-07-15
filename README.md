@@ -13,7 +13,7 @@
 
 ## 🌱 Tentang Saya
 
-- 👨‍🏫 Dosen & mentor bidang pemrograman, backend, dan DevOps
+- 👨‍🏫 Dosen & mentor bidang pemrograman, mobile apps, backend, dan DevOps
 - 💼 Aktif mengembangkan aplikasi edukasi & sistem manajemen
 - 💚 Fokus di teknologi open-source: Express.js, Next.js, Supabase, Laravel, dan Docker
 - 🌍 Berdomisili di Banyuwangi, Indonesia
@@ -49,8 +49,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/limfiq"><img src="https://img.shields.io/badge/LinkedIn-limfiq-00cc66?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:limfiq@email.com"><img src="https://img.shields.io/badge/Email-Kontak%20Saya-00cc66?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://limfiq.dev"><img src="https://img.shields.io/badge/Website-limfiq.dev-00cc66?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:mtaufiq39@gmail.com"><img src="https://img.shields.io/badge/Email-Kontak%20Saya-00cc66?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://limfiq.github.io"><img src="https://img.shields.io/badge/Website-limfiq.dev-00cc66?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
