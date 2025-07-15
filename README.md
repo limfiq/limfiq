@@ -22,7 +22,7 @@
 
 ## 🧰 Teknologi yang Saya Gunakan
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,tailwind,laravel,mysql,docker,github,vscode" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,js,nodejs,nextjs,react,tailwind,laravel,mysql,mongodb,docker,github,vscode" />
 
 ---
 
