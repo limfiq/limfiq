@@ -25,6 +25,9 @@
 <img src="https://skillicons.dev/icons?i=dart,flutter,js,nodejs,nextjs,react,tailwind,laravel,mysql,mongodb,docker,github,vscode" />
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/2Gu2aQbckBpmI/giphy.gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Animation" width="100" />
+</p>
 
 ## 📌 Proyek Unggulan
 
