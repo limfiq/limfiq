@@ -50,7 +50,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/limfiq"><img src="https://img.shields.io/badge/LinkedIn-limfiq-00cc66?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mtaufiq39@gmail.com"><img src="https://img.shields.io/badge/Email-Kontak%20Saya-00cc66?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://limfiq.github.io"><img src="https://img.shields.io/badge/Website-limfiq.dev-00cc66?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://limfiq.my.id"><img src="https://img.shields.io/badge/Website-limfiq.dev-00cc66?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
