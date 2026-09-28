@@ -17,7 +17,7 @@ Dosen di bidang Ilmu Komputer yang fokus pada pengembangan aplikasi, edukasi tek
 
 ## Teknologi
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,js,nodejs,nextjs,mysql,docker,php,ts,laravel" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,js,nextjs,mysql,docker,php,laravel" />
 
 ## Proyek yang Sudah Dideploy
 
