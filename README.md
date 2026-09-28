@@ -5,7 +5,7 @@
 <h1 align="center">Limfiq</h1>
 
 <p align="center">
-  Dosen & Pengembang Teknologi | Sekolah Tinggi Ilmu Komputer PGRI Banyuwangi<br>
+  Dosen | Sekolah Tinggi Ilmu Komputer PGRI Banyuwangi<br>
   <sub>📍 Banyuwangi, Indonesia</sub>
 </p>
 
